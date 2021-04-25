@@ -1,2 +1,2 @@
-# Airline-Dashboard
+# Airline Project
 Tableau Dashboard
